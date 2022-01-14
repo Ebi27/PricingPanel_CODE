@@ -54,12 +54,12 @@ I started by watching each of the sections ahead before starting out, toget an u
 Continuous CSS practice.
 
 ### Useful resources
-I have learned alot and continue to learn using these resources and i'd recommend it to anyone still learning this concepts; 
+I have learned alot and continue to learn using these resources and i'd recommend it to anyone still learning these concepts; 
 
-- [Resource 1](https://www.udemy.com/course/the-web-developer-bootcamp) 
-- [Resource 2](https://www.freecodecamp.org) 
-- [Resource 3](https://www.shecodes.io/learn/workshops/492) 
-- [Resource 2](https://www.frontendmentor.io) 
+- [https://www.udemy.com/course/the-web-developer-bootcamp]
+- [https://www.freecodecamp.org]
+- [https://www.shecodes.io/learn/workshops/492]
+- [https://www.frontendmentor.io)] 
 
 ## Author
 - Linkedin - [Ebi Kpemi-Ogokimi](https://www.linkedin.com/in/ebi-kpemi-ogokimi)
