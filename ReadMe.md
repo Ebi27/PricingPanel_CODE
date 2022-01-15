@@ -1,4 +1,4 @@
-# Colt Steel's practice - 3-column pricing panel
+# Colt Steel's practise - 3-column pricing panel
 This is a solution to the first [Colt Steel's udemy Web Development bootcamp 2022 ](https://www.udemy.com/course/the-web-developer-bootcamp). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
@@ -24,8 +24,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live Site URL](http://127.0.0.1:5500/PricingPanel/PriceTable/index.html)
+- Solution URL: [https://3-column-pricing-panel.netlify.app/]
+- Live Site URL: [http://127.0.0.1:5500/PricingPanel/PriceTable/index.html]
 
 ## My process
 I started by watching each of the sections ahead before starting out, toget an understanding of what was being done, i then started to code along while ensuring i understood the reasons behind every code throoughly and would constantly take out some to see what effect they had on the design and this process also helped me clean up my code. 
