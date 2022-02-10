@@ -1,5 +1,5 @@
-# Colt Steel's practise - 3-column pricing panel
-This is a solution to the first [Colt Steel's udemy Web Development bootcamp 2022 ](https://www.udemy.com/course/the-web-developer-bootcamp). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+# Colt Steel's practice - 3-column pricing panel
+This is a solution to the first [Colt Steel's udemy Web Development bootcamp 2022 ](https://www.udemy.com/course/the-web-developer-bootcamp). 
 
 ## Table of contents
 
